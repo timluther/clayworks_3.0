@@ -1,0 +1,178 @@
+!define BLANK ""
+c:\prog\c\clayworks\basic3d.obj : c:\prog\c\clayworks\basic3d.cpp .AUTODEPEN&
+D
+ @c:
+ cd c:\prog\c\clayworks
+ *wpp386 basic3d.cpp -i=c:\prog\watcom\h -w2 -e25 -s -zp8 -zq -zz -otexan -o&
+l -om -oc -oi -oa -or -oe2 -hw -fp5 -fpi87 -zld -ez -5r -bt=dos -mf
+
+c:\prog\c\clayworks\bmp.obj : c:\prog\c\clayworks\bmp.cpp .AUTODEPEND
+ @c:
+ cd c:\prog\c\clayworks
+ *wpp386 bmp.cpp -i=c:\prog\watcom\h -w2 -e25 -s -zp8 -zq -zz -otexan -ol -o&
+m -oc -oi -oa -or -oe2 -hw -fp5 -fpi87 -zld -ez -5r -bt=dos -mf
+
+c:\prog\c\clayworks\chardef.obj : c:\prog\c\clayworks\chardef.cpp .AUTODEPEN&
+D
+ @c:
+ cd c:\prog\c\clayworks
+ *wpp386 chardef.cpp -i=c:\prog\watcom\h -w2 -e25 -s -zp8 -zq -zz -otexan -o&
+l -om -oc -oi -oa -or -oe2 -hw -fp5 -fpi87 -zld -ez -5r -bt=dos -mf
+
+c:\prog\c\clayworks\claycp.obj : c:\prog\c\clayworks\claycp.cpp .AUTODEPEND
+ @c:
+ cd c:\prog\c\clayworks
+ *wpp386 claycp.cpp -i=c:\prog\watcom\h -w2 -e25 -s -zp8 -zq -zz -otexan -ol&
+ -om -oc -oi -oa -or -oe2 -hw -fp5 -fpi87 -zld -ez -5r -bt=dos -mf
+
+c:\prog\c\clayworks\colour.obj : c:\prog\c\clayworks\colour.cpp .AUTODEPEND
+ @c:
+ cd c:\prog\c\clayworks
+ *wpp386 colour.cpp -i=c:\prog\watcom\h -w2 -e25 -s -zp8 -zq -zz -otexan -ol&
+ -om -oc -oi -oa -or -oe2 -hw -fp5 -fpi87 -zld -ez -5r -bt=dos -mf
+
+c:\prog\c\clayworks\dialogs.obj : c:\prog\c\clayworks\dialogs.cpp .AUTODEPEN&
+D
+ @c:
+ cd c:\prog\c\clayworks
+ *wpp386 dialogs.cpp -i=c:\prog\watcom\h -w2 -e25 -s -zp8 -zq -zz -otexan -o&
+l -om -oc -oi -oa -or -oe2 -hw -fp5 -fpi87 -zld -ez -5r -bt=dos -mf
+
+c:\prog\c\clayworks\dosstuff.obj : c:\prog\c\clayworks\dosstuff.cpp .AUTODEP&
+END
+ @c:
+ cd c:\prog\c\clayworks
+ *wpp386 dosstuff.cpp -i=c:\prog\watcom\h -w2 -e25 -s -zp8 -zq -zz -otexan -&
+ol -om -oc -oi -oa -or -oe2 -hw -fp5 -fpi87 -zld -ez -5r -bt=dos -mf
+
+c:\prog\c\clayworks\gbasics.obj : c:\prog\c\clayworks\gbasics.cpp .AUTODEPEN&
+D
+ @c:
+ cd c:\prog\c\clayworks
+ *wpp386 gbasics.cpp -i=c:\prog\watcom\h -w2 -e25 -s -zp8 -zq -zz -otexan -o&
+l -om -oc -oi -oa -or -oe2 -hw -fp5 -fpi87 -zld -ez -5r -bt=dos -mf
+
+c:\prog\c\clayworks\ggraph.obj : c:\prog\c\clayworks\ggraph.cpp .AUTODEPEND
+ @c:
+ cd c:\prog\c\clayworks
+ *wpp386 ggraph.cpp -i=c:\prog\watcom\h -w2 -e25 -s -zp8 -zq -zz -otexan -ol&
+ -om -oc -oi -oa -or -oe2 -hw -fp5 -fpi87 -zld -ez -5r -bt=dos -mf
+
+c:\prog\c\clayworks\gif.obj : c:\prog\c\clayworks\gif.cpp .AUTODEPEND
+ @c:
+ cd c:\prog\c\clayworks
+ *wpp386 gif.cpp -i=c:\prog\watcom\h -w2 -e25 -s -zp8 -zq -zz -otexan -ol -o&
+m -oc -oi -oa -or -oe2 -hw -fp5 -fpi87 -zld -ez -5r -bt=dos -mf
+
+c:\prog\c\clayworks\gprim.obj : c:\prog\c\clayworks\gprim.cpp .AUTODEPEND
+ @c:
+ cd c:\prog\c\clayworks
+ *wpp386 gprim.cpp -i=c:\prog\watcom\h -w2 -e25 -s -zp8 -zq -zz -otexan -ol &
+-om -oc -oi -oa -or -oe2 -hw -fp5 -fpi87 -zld -ez -5r -bt=dos -mf
+
+c:\prog\c\clayworks\imgloadr.obj : c:\prog\c\clayworks\imgloadr.cpp .AUTODEP&
+END
+ @c:
+ cd c:\prog\c\clayworks
+ *wpp386 imgloadr.cpp -i=c:\prog\watcom\h -w2 -e25 -s -zp8 -zq -zz -otexan -&
+ol -om -oc -oi -oa -or -oe2 -hw -fp5 -fpi87 -zld -ez -5r -bt=dos -mf
+
+c:\prog\c\clayworks\lowlev.obj : c:\prog\c\clayworks\lowlev.cpp .AUTODEPEND
+ @c:
+ cd c:\prog\c\clayworks
+ *wpp386 lowlev.cpp -i=c:\prog\watcom\h -w2 -e25 -s -zp8 -zq -zz -otexan -ol&
+ -om -oc -oi -oa -or -oe2 -hw -fp5 -fpi87 -zld -ez -5r -bt=dos -mf
+
+c:\prog\c\clayworks\msmouse.obj : c:\prog\c\clayworks\msmouse.cpp .AUTODEPEN&
+D
+ @c:
+ cd c:\prog\c\clayworks
+ *wpp386 msmouse.cpp -i=c:\prog\watcom\h -w2 -e25 -s -zp8 -zq -zz -otexan -o&
+l -om -oc -oi -oa -or -oe2 -hw -fp5 -fpi87 -zld -ez -5r -bt=dos -mf
+
+c:\prog\c\clayworks\nurb.obj : c:\prog\c\clayworks\nurb.cpp .AUTODEPEND
+ @c:
+ cd c:\prog\c\clayworks
+ *wpp386 nurb.cpp -i=c:\prog\watcom\h -w2 -e25 -s -zp8 -zq -zz -otexan -ol -&
+om -oc -oi -oa -or -oe2 -hw -fp5 -fpi87 -zld -ez -5r -bt=dos -mf
+
+c:\prog\c\clayworks\pcx256.obj : c:\prog\c\clayworks\pcx256.cpp .AUTODEPEND
+ @c:
+ cd c:\prog\c\clayworks
+ *wpp386 pcx256.cpp -i=c:\prog\watcom\h -w2 -e25 -s -zp8 -zq -zz -otexan -ol&
+ -om -oc -oi -oa -or -oe2 -hw -fp5 -fpi87 -zld -ez -5r -bt=dos -mf
+
+c:\prog\c\clayworks\strtable.obj : c:\prog\c\clayworks\strtable.cpp .AUTODEP&
+END
+ @c:
+ cd c:\prog\c\clayworks
+ *wpp386 strtable.cpp -i=c:\prog\watcom\h -w2 -e25 -s -zp8 -zq -zz -otexan -&
+ol -om -oc -oi -oa -or -oe2 -hw -fp5 -fpi87 -zld -ez -5r -bt=dos -mf
+
+c:\prog\c\clayworks\svga64k.obj : c:\prog\c\clayworks\svga64k.cpp .AUTODEPEN&
+D
+ @c:
+ cd c:\prog\c\clayworks
+ *wpp386 svga64k.cpp -i=c:\prog\watcom\h -w2 -e25 -s -zp8 -zq -zz -otexan -o&
+l -om -oc -oi -oa -or -oe2 -hw -fp5 -fpi87 -zld -ez -5r -bt=dos -mf
+
+c:\prog\c\clayworks\tmaths.obj : c:\prog\c\clayworks\tmaths.cpp .AUTODEPEND
+ @c:
+ cd c:\prog\c\clayworks
+ *wpp386 tmaths.cpp -i=c:\prog\watcom\h -w2 -e25 -s -zp8 -zq -zz -otexan -ol&
+ -om -oc -oi -oa -or -oe2 -hw -fp5 -fpi87 -zld -ez -5r -bt=dos -mf
+
+c:\prog\c\clayworks\ttypes.obj : c:\prog\c\clayworks\ttypes.cpp .AUTODEPEND
+ @c:
+ cd c:\prog\c\clayworks
+ *wpp386 ttypes.cpp -i=c:\prog\watcom\h -w2 -e25 -s -zp8 -zq -zz -otexan -ol&
+ -om -oc -oi -oa -or -oe2 -hw -fp5 -fpi87 -zld -ez -5r -bt=dos -mf
+
+c:\prog\c\clayworks\vesainfo.obj : c:\prog\c\clayworks\vesainfo.cpp .AUTODEP&
+END
+ @c:
+ cd c:\prog\c\clayworks
+ *wpp386 vesainfo.cpp -i=c:\prog\watcom\h -w2 -e25 -s -zp8 -zq -zz -otexan -&
+ol -om -oc -oi -oa -or -oe2 -hw -fp5 -fpi87 -zld -ez -5r -bt=dos -mf
+
+c:\prog\c\clayworks\vga256.obj : c:\prog\c\clayworks\vga256.cpp .AUTODEPEND
+ @c:
+ cd c:\prog\c\clayworks
+ *wpp386 vga256.cpp -i=c:\prog\watcom\h -w2 -e25 -s -zp8 -zq -zz -otexan -ol&
+ -om -oc -oi -oa -or -oe2 -hw -fp5 -fpi87 -zld -ez -5r -bt=dos -mf
+
+c:\prog\c\clayworks\views.obj : c:\prog\c\clayworks\views.cpp .AUTODEPEND
+ @c:
+ cd c:\prog\c\clayworks
+ *wpp386 views.cpp -i=c:\prog\watcom\h -w2 -e25 -s -zp8 -zq -zz -otexan -ol &
+-om -oc -oi -oa -or -oe2 -hw -fp5 -fpi87 -zld -ez -5r -bt=dos -mf
+
+c:\prog\c\clayworks\widgets.obj : c:\prog\c\clayworks\widgets.cpp .AUTODEPEN&
+D
+ @c:
+ cd c:\prog\c\clayworks
+ *wpp386 widgets.cpp -i=c:\prog\watcom\h -w2 -e25 -s -zp8 -zq -zz -otexan -o&
+l -om -oc -oi -oa -or -oe2 -hw -fp5 -fpi87 -zld -ez -5r -bt=dos -mf
+
+c:\prog\c\clayworks\claycp.exe : c:\prog\c\clayworks\basic3d.obj c:\prog\c\c&
+layworks\bmp.obj c:\prog\c\clayworks\chardef.obj c:\prog\c\clayworks\claycp.&
+obj c:\prog\c\clayworks\colour.obj c:\prog\c\clayworks\dialogs.obj c:\prog\c&
+\clayworks\dosstuff.obj c:\prog\c\clayworks\gbasics.obj c:\prog\c\clayworks\&
+ggraph.obj c:\prog\c\clayworks\gif.obj c:\prog\c\clayworks\gprim.obj c:\prog&
+\c\clayworks\imgloadr.obj c:\prog\c\clayworks\lowlev.obj c:\prog\c\clayworks&
+\msmouse.obj c:\prog\c\clayworks\nurb.obj c:\prog\c\clayworks\pcx256.obj c:\&
+prog\c\clayworks\strtable.obj c:\prog\c\clayworks\svga64k.obj c:\prog\c\clay&
+works\tmaths.obj c:\prog\c\clayworks\ttypes.obj c:\prog\c\clayworks\vesainfo&
+.obj c:\prog\c\clayworks\vga256.obj c:\prog\c\clayworks\views.obj c:\prog\c\&
+clayworks\widgets.obj c:\prog\c\clayworks\nurb.hpp c:\prog\c\clayworks\views&
+.hpp c:\prog\c\clayworks\widgets.hpp .AUTODEPEND
+ @c:
+ cd c:\prog\c\clayworks
+ @%write claycp.lk1 NAME claycp
+ @%append claycp.lk1 FIL basic3d.obj,bmp.obj,chardef.obj,claycp.obj,colour.o&
+bj,dialogs.obj,dosstuff.obj,gbasics.obj,ggraph.obj,gif.obj,gprim.obj,imgload&
+r.obj,lowlev.obj,msmouse.obj,nurb.obj,pcx256.obj,strtable.obj,svga64k.obj,tm&
+aths.obj,ttypes.obj,vesainfo.obj,vga256.obj,views.obj,widgets.obj
+ @%append claycp.lk1 
+ *wlink SYS dos4g op maxe=25 op q @claycp.lk1
+

@@ -1,0 +1,2 @@
+basic3d.cpp(5210): Warning! W379: col(31) 'delete' expression will invoke a non-virtual destructor 
+basic3d.cpp(5222): Warning! W379: col(36) 'delete' expression will invoke a non-virtual destructor 

@@ -1,0 +1,3 @@
+widgets.cpp(2917): Warning! W665: col(27) temporary object used to initialize a non-constant reference 
+widgets.cpp(2917): Note! N630: col(27) source conversion type is "tpointtemplate<int>" 
+widgets.cpp(2917): Note! N631: col(27) target conversion type is "tpointtemplate<int> (lvalue)" 

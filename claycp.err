@@ -1,0 +1,10 @@
+claycp.cpp(1371): Warning! W014: col(1) no reference to symbol 'report' 
+claycp.cpp(1371): Note! N392: col(1) 'unsigned report' in 'int teditscene::copyselpolygons( matrix4x4 *, unsigned )' defined in: claycp.cpp(1288) (col 12) 
+claycp.cpp(1502): Warning! W014: col(1) no reference to symbol 'ce' 
+claycp.cpp(1502): Note! N392: col(1) 'tedge * ce' in 'void sortforedgeloops( teditscene * )' defined in: claycp.cpp(1455) (col 12) 
+claycp.cpp(1502): Warning! W014: col(1) no reference to symbol 'pe' 
+claycp.cpp(1502): Note! N392: col(1) 'tedge * pe' in 'void sortforedgeloops( teditscene * )' defined in: claycp.cpp(1455) (col 20) 
+claycp.cpp(2342): Warning! W665: col(70) temporary object used to initialize a non-constant reference 
+claycp.cpp(2342): Note! N630: col(70) source conversion type is "tpointtemplate<float> (lvalue)" 
+claycp.cpp(2342): Note! N631: col(70) target conversion type is "tpointtemplate<float> (lvalue)" 
+claycp.cpp(2554): Warning! W379: col(12) 'delete' expression will invoke a non-virtual destructor 

@@ -1,0 +1,4 @@
+gprim.cpp(74): Warning! W014: col(1) no reference to symbol 'm' 
+gprim.cpp(74): Note! N392: col(1) 'float m' in 'void drawarrow( float, float, float, float, float, float, float )' defined in: gprim.cpp(49) (col 11) 
+gprim.cpp(74): Warning! W014: col(1) no reference to symbol 'im' 
+gprim.cpp(74): Note! N392: col(1) 'float im' in 'void drawarrow( float, float, float, float, float, float, float )' defined in: gprim.cpp(49) (col 13) 
